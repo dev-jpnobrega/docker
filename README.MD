@@ -9,3 +9,9 @@
 - For MAC: [docker/MAC](https://docs.docker.com/docker-for-mac/)
 
 - For Windows: [docker/Windows](https://docs.docker.com/docker-for-windows/)
+
+## How do I use
+
+```docker
+  docker-compose up
+```
