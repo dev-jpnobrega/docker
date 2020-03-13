@@ -23,7 +23,7 @@ Example
 ```
 
 After, build your containers
-```docker
+```cmd
   docker-compose up
 ```
 
