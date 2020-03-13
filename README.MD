@@ -12,6 +12,17 @@
 
 ## How do I use
 
+Clone in the repository
+
+Go to the container folder you want to use.
+Change envs, if necessary.
+
+Example
+```cmd
+  cd ./redis
+```
+
+After, build your containers
 ```docker
   docker-compose up
 ```
