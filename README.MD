@@ -30,7 +30,7 @@ See the contributing docs for more information
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/dev-jpnobrega"><img src="https://avatars1.githubusercontent.com/u/28389807?s=400&u=2c152fc946efc96badce0cfc743ebcb2585b4b3f&v=4" width="100px;" alt=""/><br /><sub><b>Kent C. Dodds</b></sub></a><br /><a href="#question-kentcdodds" title="Answering Questions">💬</a> <a href="https://github.com/dev-jpnobrega/docker/issues" title="Documentation">📖</a> <a href="https://github.com/dev-jpnobrega/docker/pulls" title="Reviewed Pull Requests">👀</a> <a href="#talk-kentcdodds" title="Talks">📢</a></td>
+    <td align="center"><a href="https://github.com/dev-jpnobrega"><img src="https://avatars1.githubusercontent.com/u/28389807?s=400&u=2c152fc946efc96badce0cfc743ebcb2585b4b3f&v=4" width="100px;" alt=""/><br /><sub><b>Kent C. Dodds</b></sub></a><br /><a href="https://github.com/dev-jpnobrega/docker/issues" title="Answering Questions">💬</a> <a href="https://github.com/dev-jpnobrega/docker/tree/feature/add-readme#how-do-i-use" title="Documentation">📖</a> <a href="https://github.com/dev-jpnobrega/docker/pulls" title="Reviewed Pull Requests">👀</a> <a href="#talk-kentcdodds" title="Talks">📢</a></td>
   </tr>
 </table>
 
