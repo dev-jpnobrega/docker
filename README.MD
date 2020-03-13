@@ -12,7 +12,7 @@
 
 ## How do I use
 
-Clone in the repository
+Clone repository
 
 Go to the container folder you want to use.
 Change envs, if necessary.
