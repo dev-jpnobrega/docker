@@ -15,3 +15,12 @@
 ```docker
   docker-compose up
 ```
+
+## Contributing
+
+If you've ever wanted to contribute to open source, and a great cause, now is your chance!
+
+See the contributing docs for more information
+
+## License
+[MIT](https://github.com/all-contributors/all-contributors/blob/master/LICENSE)
