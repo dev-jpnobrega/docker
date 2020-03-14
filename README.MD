@@ -31,7 +31,7 @@ After, build your containers
 
 If you've ever wanted to contribute to open source, and a great cause, now is your chance!
 
-See the contributing docs for more information
+See the [contributing docs](https://github.com/dev-jpnobrega) for more information
 
 ## Contributors ✨
 
