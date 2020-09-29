@@ -49,5 +49,9 @@ See the [contributing docs](https://github.com/dev-jpnobrega) for more informati
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+## Changelog
+
+See the [changelog file](CHANGELOG.md) for more information
+
 ## License
 [MIT](https://github.com/all-contributors/all-contributors/blob/master/LICENSE)
