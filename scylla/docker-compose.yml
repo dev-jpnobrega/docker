@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  scylla-manager-db:
+    image: scylladb/scylla
+    container_name: scylla-manager-db
+    restart: always
+    networks:
+      web:
+networks:
+  web:
+    driver: bridge
